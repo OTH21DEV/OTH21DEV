@@ -18,6 +18,8 @@ ________________________________________________________________________________
 
 
 <img width="250px" src ="https://user-images.githubusercontent.com/81259062/210111497-0172b99d-b5a4-43c9-a51f-2983067955cb.png">
+<img width="250px" src ="https://github-readme-stats.vercel.app/api/pin/?username=OTH21DEV&repo=github-readme-stats)](https://github.com/OTH21DEV/github-readme-stats">
+
 
 <table >
 <tr width="100%">
