@@ -13,6 +13,18 @@
 
 ___________________________________________________________________________________________________________________________________________________________________
 
+## <div align="center" width="100%"> My last projects :computer: </div>
+
+
+
+
+<div width="10%">
+<img src = 'https://user-images.githubusercontent.com/81259062/210092479-ed20c413-b020-499c-b6c8-4ee0f675af8a.png' width="30%" height="20%">
+
+
+</div>
+
+
 ![image](https://github-readme-stats.vercel.app/api?username=OTH21DEV)
 <!--
 
