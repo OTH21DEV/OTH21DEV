@@ -1,12 +1,11 @@
-### Hi there, I'm Oxana  👋
+### <p align="center"> Hi there, I'm Oxana  👋
 
 ![image](	https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 ![image](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
 [![image](https://img.shields.io/badge/PORTFOLIO-{8B89CC}?style=for-the-badge&logoColor=white)](https://oth21dev.github.io/portfolio/)
 
-[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-2ea44f)](https://oth21dev.github.io/portfolio/)
+</p>
 Fresh gruaduated enthusiastic Front End Developer with knowledge in Web App Development, React, Javascript ES6, HTML/CSS, SCSS, Redux 
 
 
