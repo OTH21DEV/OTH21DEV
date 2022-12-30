@@ -53,7 +53,6 @@ ________________________________________________________________________________
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OTH21DEV&repo=OxanaTheis_7_02012022)](https://github.com/OTH21DEV/OxanaTheis_7_02012022)
 
 
 <!--
