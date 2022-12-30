@@ -20,7 +20,7 @@ ________________________________________________________________________________
 <table >
 <tr width="100%">
 <th width="50%"> Languages and Tools </th>
-<th width="50%"> My last projects :computer: </th>
+<th width="50%"> Used languages stats</th>
 </tr>
 <tr>
 <td>
@@ -39,15 +39,9 @@ ________________________________________________________________________________
 
   </div>
 </td>
-<td>
+<td >
 
-```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-```
-
+<img align="center" width="100%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTH21DEV&layout=compact)](https://github.com/OTH21DEV/github-readme-stats">
 </td>
 </tr>
 </table>
@@ -55,9 +49,10 @@ int foo() {
 
 
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=OTH21DEV)
-<!--
 
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OTH21DEV&layout=compact)](https://github.com/OTH21DEV/github-readme-stats)
 
 Here are some ideas to get you started:
 
