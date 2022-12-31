@@ -52,35 +52,7 @@ ________________________________________________________________________________
 </table>
                          
 
-88888888888888888888888888888888888888888888888888888
 
-<div width="100%">
-  <div align="left" width="40%">
-  <div >
-  <img width="400px" src ='https://user-images.githubusercontent.com/81259062/210132806-f443a5bc-3cb4-4929-9723-173a3af4665f.gif'>
-</div>
-  
-  <div >
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OTH21DEV&repo=OxanaTheis_13_03082022&theme=transparent)](https://github.com/OTH21DEV/OxanaTheis_13_03082022)
-</div>
-  </div>
-   <div valign="top" align="right" width="40%">
-<div>
-
-<img width="400px" src ='https://user-images.githubusercontent.com/81259062/210132366-3a5dcbca-20be-4f9c-926c-c9a1e59b87df.gif'>
-
-
-</div>
-
-<div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OTH21DEV&repo=OxanaTheis_7_02012022&theme=transparent)](https://github.com/OTH21DEV/OxanaTheis_7_02012022)
-</div>
-  </div>
-  
-  
-</div>
 <table >
 <tr width="100%">
 <th width="50%"> Languages and Tools </th>
