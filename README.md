@@ -63,11 +63,11 @@ ________________________________________________________________________________
 
 <table >
 <tr width="100%">
-<th width="50%"> Languages and Tools </th>
-<th width="50%"> Used languages stats</th>
+<th colspan="2" width="50%"> Languages and Tools </th>
+
 </tr>
 <tr>
-<td>
+<td width="50%">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -85,7 +85,9 @@ ________________________________________________________________________________
 </td>
 <td >
 
-<img align="center" width="100%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTH21DEV&layout=compact)](https://github.com/OTH21DEV/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTH21DEV&layout=compact&theme=transparent" width="100%"/>
+
+  
 </td>
 </tr>
 </table>
