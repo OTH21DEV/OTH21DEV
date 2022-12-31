@@ -13,16 +13,20 @@
 
 ___________________________________________________________________________________________________________________________________________________________________
 
-## <div align="center" width="100%"> My last projects :computer: </div>
+## <div align="center" width="100%"> My favorite projects :computer: </div>
+<div width="50%">
+<div width="100%">
+
+<img width="400px" src ='https://user-images.githubusercontent.com/81259062/210132366-3a5dcbca-20be-4f9c-926c-c9a1e59b87df.gif'>
 
 
+</div>
 
-<img width="250px" src ="https://user-images.githubusercontent.com/81259062/210111497-0172b99d-b5a4-43c9-a51f-2983067955cb.png">
-
+<div width="100%">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OTH21DEV&repo=OxanaTheis_7_02012022&theme=transparent)](https://github.com/OTH21DEV/OxanaTheis_7_02012022)
-
-
+</div>
+</div>
 <table >
 <tr width="100%">
 <th width="50%"> Languages and Tools </th>
