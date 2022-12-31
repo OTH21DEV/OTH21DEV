@@ -26,7 +26,7 @@ ________________________________________________________________________________
 <tr>
 <td >
 <div>
-  <img width="400px" height="150px" src ='https://user-images.githubusercontent.com/81259062/210132806-f443a5bc-3cb4-4929-9723-173a3af4665f.gif'>
+  <img width="400px" height="197px" src ='https://user-images.githubusercontent.com/81259062/210132806-f443a5bc-3cb4-4929-9723-173a3af4665f.gif'>
   </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OTH21DEV&repo=OxanaTheis_13_03082022&theme=transparent)](https://github.com/OTH21DEV/OxanaTheis_13_03082022)
