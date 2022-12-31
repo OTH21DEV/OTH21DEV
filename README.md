@@ -26,7 +26,7 @@ ________________________________________________________________________________
 <tr>
 <td >
 <div>
-  <img width="400px" height="197px" src ='https://user-images.githubusercontent.com/81259062/210132806-f443a5bc-3cb4-4929-9723-173a3af4665f.gif'>
+  <img width="400px"  src ='https://user-images.githubusercontent.com/81259062/210135092-4dde0fcc-38a4-4ec3-8b9d-90da0f6d94a2.gif'>
   </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OTH21DEV&repo=OxanaTheis_13_03082022&theme=transparent)](https://github.com/OTH21DEV/OxanaTheis_13_03082022)
@@ -37,18 +37,26 @@ ________________________________________________________________________________
 </td>
 
 
+
 <td >
+
 <div>
-  <img width="400px" src ='https://user-images.githubusercontent.com/81259062/210132366-3a5dcbca-20be-4f9c-926c-c9a1e59b87df.gif'>
+  <img width="400px" src ='https://user-images.githubusercontent.com/81259062/210135209-7356c66e-3878-4167-82cf-1a6a1ac194fd.gif'>
   </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OTH21DEV&repo=OxanaTheis_7_02012022&theme=transparent)](https://github.com/OTH21DEV/OxanaTheis_7_02012022)
   
+<!--add one more card for test
   
-  
+  <div>
+  <img width="400px" src ='https://user-images.githubusercontent.com/81259062/210132366-3a5dcbca-20be-4f9c-926c-c9a1e59b87df.gif'>
+  </div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OTH21DEV&repo=OxanaTheis_7_02012022&theme=transparent)](https://github.com/OTH21DEV/OxanaTheis_7_02012022)
+  -->
   
 </td>
-</tr>
+    </tr>
 </table>
                          
 
