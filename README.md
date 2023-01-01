@@ -60,11 +60,11 @@ ________________________________________________________________________________
     </tr>
 </table>
                          
-
+## <div align="center" width="100%"> Languages and tools :hammer: </div>
 
 <table >
 <tr width="100%">
-<th colspan="2" width="50%"> Languages and Tools </th>
+
 
 </tr>
 <tr>
