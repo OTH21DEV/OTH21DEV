@@ -10,7 +10,7 @@
 </div>
 
 
-<p>Fresh gruaduated enthusiastic Front End Developer with knowledge in Web App Development, React, Javascript ES6, HTML/CSS, SCSS, Redux </p>
+<p>Freshed gruaduated enthusiastic Front End Developer with knowledge in Web App Development, React, Javascript ES6, HTML/CSS, SCSS, Redux </p>
 
 ___________________________________________________________________________________________________________________________________________________________________
 
