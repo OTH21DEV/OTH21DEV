@@ -10,7 +10,7 @@
 </div>
 
 
- <p>Freshed gruaduated enthusiastic Front End Developer with knowledge in Web App Development, React, Javascript ES6, HTML/CSS, SCSS, Redux.<br/>
+ <p>Freshed gruaduated enthusiastic Front End Developer with knowledge in Front-end and Back-end Web App Development, React, Javascript ES6, HTML/CSS, SCSS, Redux, Express, MongoDB and Node.js.<br/>
 I'm looking to join a team of creative designers and developers. If you think we might be a good fit for one another, contact me without hesitation :wink:!
 </p>
 
