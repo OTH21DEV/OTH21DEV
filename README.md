@@ -98,7 +98,7 @@ ________________________________________________________________________________
 </table>
 
 
-![Snake animation](https://raw.githubusercontent.com/{github.com/OTH21DEV}/{github.com/OTH21DEV}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/{OTH21DEV}/{OTH21DEV}/output/github-contribution-grid-snake-dark.svg)
 
 
 <!--
